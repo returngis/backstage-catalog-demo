@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: tour-of-heroes
+  description: The Tour of Heroes application demo
+spec:
+  owner: guests
+  domain: artists

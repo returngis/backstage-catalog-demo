@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Resource
+metadata:
+  name: heroes-db
+  description: Stores heroes details
+spec:
+  type: database
+  owner: guests
+  system: tour-of-heroes
