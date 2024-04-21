@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  name: returngis-corp
+spec:
+  targets:
+    - cloud/azure/databases-catalog-info.yaml
+    - systems/tour-of-heroes-system.yaml
