@@ -1,0 +1,15 @@
+apiVersion: backstage.io/v1alpha1
+kind: Domain
+metadata:
+  name: comics
+  description: Everything related to comics
+  title: Comics
+  links:
+    - url: https://en.wikipedia.org/wiki/Comics
+      title: Wikipedia
+    - url: https://www.marvel.com/
+      title: Marvel
+    - url: https://www.dccomics.com/
+      title: DC Comics
+spec:
+  owner: user:0GiS0

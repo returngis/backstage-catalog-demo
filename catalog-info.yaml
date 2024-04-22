@@ -4,5 +4,10 @@ metadata:
   name: returngis-corp
 spec:
   targets:
-    - cloud/azure/databases-catalog-info.yaml
+    # Domains
+    - domains/comics-domain.yaml
+    # Systems
     - systems/tour-of-heroes-system.yaml
+    - systems/tour-of-villains-system.yaml
+    # Resources
+    - cloud/azure/heroes-db-resource.yaml
