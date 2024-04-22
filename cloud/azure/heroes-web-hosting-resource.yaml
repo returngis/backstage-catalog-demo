@@ -5,7 +5,7 @@ metadata:
   description: Hosts the Tour of Heroes web application
 spec:
   type: azure-app-service
-  owner: guests
+  owner: marvel
   system: tour-of-heroes
   lifecycle: production
   dependsOn: [heroes-db]

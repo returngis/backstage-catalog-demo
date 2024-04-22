@@ -4,5 +4,5 @@ metadata:
   name: tour-of-heroes
   description: The Tour of Heroes application demo
 spec:
-  owner: user:0GiS0
+  owner: marvel
   domain: comics

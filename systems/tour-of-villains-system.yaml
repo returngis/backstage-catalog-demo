@@ -4,5 +4,5 @@ metadata:
   name: tour-of-villains
   description: The Tour of Villains application demo
 spec:
-  owner: user:0GiS0
+  owner: dc
   domain: comics

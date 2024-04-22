@@ -5,6 +5,6 @@ metadata:
   description: Stores heroes details
 spec:
   type: azure-sql-database
-  owner: guests
+  owner: dc
   system: tour-of-heroes
   lifecycle: production
