@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Resource
+metadata:
+  name: heroes-hosting
+  description: Hosts the Tour of Heroes web application
+spec:
+  type: azure-app-service
+  owner: guests
+  system: tour-of-heroes
+  lifecycle: production
+  dependsOn: [heroes-db]

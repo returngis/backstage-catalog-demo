@@ -11,3 +11,4 @@ spec:
     - systems/tour-of-villains-system.yaml
     # Resources
     - cloud/azure/heroes-db-resource.yaml
+    - cloud/azure/heroes-web-hosting-resource.yaml
